@@ -1,10 +1,10 @@
-![Snapchat Unfriend Automation — Appilot](assets/banner.png)
-
 # Snapchat Unfriend Automation by Appilot
 
 **An Appilot product showcase for operator-initiated friend-list cleanup inside the Snapchat Android application, with configurable session limits and completion tracking.**
 
 [![Website](https://img.shields.io/badge/Website-appilot.app-6F80E8?style=for-the-badge&labelColor=F7F9FF)](https://www.appilot.app/) [![Demo](https://img.shields.io/badge/Watch-Demo-FFDD48?style=for-the-badge&logo=youtube&logoColor=111)](https://youtu.be/WGEJfNQ3Iyc)
+
+![Snapchat Unfriend Automation — Appilot](assets/banner.png)
 
 ## Demo Video
 
